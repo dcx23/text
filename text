@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="DC Miller">
+    <meta name="author" content="DC Miller">
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://static.tumblr.com/ntnmx36/h4coffd44/bootstrap.min.js"></script>
+	<!--tablesorter-->
+	<script type="text/javascript" src="http://static.tumblr.com/ntnmx36/7Msoffcyf/jquery.tablesorter.js"></script>
+	
+	<script src="https://use.typekit.net/pap2zgh.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="relaunch2016/assets/efrex.ico"/>
+	
+    <title>dc miller</title>
+
+    <link href="http://static.tumblr.com/ntnmx36/rIPofelnc/bootstrap.min.css" rel="stylesheet">
+	<link href="http://static.tumblr.com/ntnmx36/mkboffdb8/style.css">
+
+  </head>
+  <body>
+	<noscript>pls turn on javas crypt</noscript>
+	<div class="container-fluid" id="main-content">
+		
+		<div id="header">
+			<p><span id="title">dc miller</span>
+			<br></br>
+			<span id="sub-header">dcxmiller at gmail
+			</p>
+		</div>
+	
+		<div class="row" id="full-table">
+			<div class="col-md-12 col-sm-12 col-xs-12">
+				<div class="table">
+			  		<table id="myTable" class="table table-borderless tablesorter" style="background-color:rgba(00, 00, 00, 01);" cellpadding="2px">
+					<thead>
+			  			<tr>
+							<th width="35%">what</th>
+							<th width="15%">what</th>
+							<th width="30%">where</th>
+							<th width="20%">when</th>			
+						</tr>
+					</thead>
+					<tbody>
+					
+						<td class="sans-serif"><a href="https://fytafytafyta.wixsite.com/dystopianpleasures/evola">Evola in Athens</a></td>
+							<td>lecture</td>
+							<td>University of Muri</td>
+							<td>September 2018</td>
+						
+							<tr class="linked" id="post">
+					
+					<td class="sans-serif"><a href="https://medium.com/@dctvbot/progress-and-the-voodoo-gods-4ba724627b2e">
+						Progress and the Voodoo Gods</a></td>
+							<td>review</td>
+							<td>Social Matter</td>
+							<td>September 2018</td>
+						
+							<tr class="linked" id="post">
+					
+					
+						 <td class="sans-serif"><a href="https://masonmasters.me/2018/08/23/who-rules-the-world-an-interview-with-dc-miller/" onclick="return false;">
+						Who Rules The World?</a></td>
+							<td>interview</td>
+							<td></td>
+							<td>August 2018</td>
+						
+							<tr class="linked" id="post">
+					
+													 <td class="sans-serif"><a href="https://newpoplitopenmic.com/2018/08/10/poem-antifa-whore-by-d-c-miller/" onclick="return false;">
+						Antifa Whore</a></td>
+							<td>audio</td>
+							<td>New Pop Lit</td>
+							<td>August 2018</td>
+																			<tr class="linked" id="post">
+									 <td class="sans-serif"><a href="https://softcartel.com/2018/07/19/three-poems-by-dc-miller/" onclick="return false;">
+						Antifa Whore</a></td>
+							<td>poetry</td>
+							<td>Soft Cartel</td>
+							<td>July 2018</td>
+																			<tr class="linked" id="post">
+																				 <td class="sans-serif"><a href="https://www.amazon.com.au/Dracula-Rules-World-Mark-Zuckerberg-ebook/dp/B00ZOAPPTW" onclick="return false;">
+						Dracula Rules the World and Mark Zuckerberg is His Son</a></td>
+							<td>book</td>
+							<td></td>
+							<td>April 2018</td>
+																			<tr class="linked" id="post">
+					
+																			
+																			
+											 <td class="sans-serif"><a href="https://newpoplit.com/portfolio/cat-doctor/" onclick="return false;">
+						Cat Doctor</a></td>
+							<td>fiction</td>
+							<td>New Pop Lit</td>
+							<td>Mar 2018</td>
+							
+																			<tr class="linked" id="post">
+				
+					
+						 <td class="sans-serif"><a href="http://northstarstoriesandpoems.com/#dcmiller" onclick="return false;">
+						A Tragedy</a></td>
+							<td>libretto</td>
+							<td>North Star</td>
+							<td>Nov 2017</td>
+																			<tr class="linked" id="post">
+							
+						 <td class="sans-serif"><a href="https://newpoplit.com/portfolio/excerpts-from-a-speculative-novel/" onclick="return false;">
+						Dracula Rules the World and Mark Zuckerberg is His Son</a></td>
+							<td>fiction</td>
+							<td>New Pop Lit</td>
+							<td>Oct 2017</td>
+																			<tr class="linked" id="post">
+				
+						
+						 <td class="sans-serif"><a href="https://autisticmercury.com/the-occultation-of-surrealism----tessel-baduin.html" onclick="return false;">
+						The Occultation of Surrealism</a></td>
+							<td>review</td>
+							<td>Autistic Mercury</td>
+							<td>Sep 2017</td>
+																			<tr class="linked" id="post">
+							
+													 <td class="sans-serif"><a href="https://www.autisticmercury.com/europa-an-illustrated-introduction-to-europe-for-migrants-and-refugees.html">
+						Europa</a></td>
+							<td>review</td>
+							<td>Autistic Mercury</td>
+							<td>Sep 2017</td>
+
+						
+												<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/10/surrealism-haiti-7-future/" onclick="return false;">
+						Surrealism and the Future</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Aug 2017</td>
+	
+					
+						<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/08/surrealism-haiti-6-art/" onclick="return false;">
+						Surrealism and Art</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Aug 2017</td>
+												<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/07/surrealism-haiti-5-magic-voodoo/" onclick="return false;">
+						Surrealism and Voodoo</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Jul 2017</td>
+							
+									<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="
+							http://www.fluland.com/2017/07/22/baby-dc-miller/" onclick="return false;">
+						Baby</a></td>
+							<td>fiction</td>
+							<td>Fluland</td>
+							<td>Jul 2017</td>
+							
+									<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.fluland.com/2017/07/22/always-mario-balotelli-translated-italian-dc-miller/" onclick="return false;">
+						Why Always Me?</a></td>
+							<td>translation</td>
+							<td>Fluland</td>
+							<td>Jul 2017</td>
+												<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="
+					http://queenmobs.com/2017/07/surrealism-haiti-4-anthropology-ethnography/" onclick="return false;">
+						Surrealism and Anthropology</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Jul 2017</td>
+											
+					
+									<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/07/surrealism-haiti-3-creole-language/" onclick="return false;">
+						Surrealism and Creole</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Jul 2017</td>
+															<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/07/surrealism-haiti-2-city/" onclick="return false;">
+						Surrealism and the City</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Jul 2017</td>
+											
+										<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://queenmobs.com/2017/06/surrealism-haiti-1/" onclick="return false;">
+						Surrealism and Haiti</a></td>
+							<td>translation</td>
+							<td>Queen Mob's</td>
+							<td>Jun 2017</td>
+					
+					<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.fluland.com/2017/04/08/microstalin-dc-miller/" onclick="return false;">
+						Microstalin</a></td>
+							<td>fiction</td>
+							<td>Fluland</td>
+							<td>Mar 2017</td>
+							
+					<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://medium.com/@dctvbot/no-platform-for-aristotle-867a04c5da50" onclick="return false;">
+						No Platform for Aristotle</a></td>
+							<td>case study</td>
+							<td>London</td>
+							<td>Mar 2017</td>
+															<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.fluland.com/2017/03/18/the-zombie-by-dc-miller/" onclick="return false;">
+						The Zombie</a></td>
+							<td>fiction</td>
+							<td>Fluland</td>
+							<td>Mar 2017</td>
+					
+										<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.fluland.com/2017/03/12/global-infinity-credit-card-by-dc-miller/" onclick="return false;">
+						Global Infinity Credit Card</a></td>
+							<td>fiction</td>
+							<td>Fluland</td>
+							<td>Mar 2017</td>
+
+
+					<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://www.facebook.com/events/100614430464838/" onclick="return false;">
+						Julius Evola</a></td>
+							<td>defaced page</td>
+							<td>University of Muri</td>
+							<td>Feb 2017</td>
+							
+										<tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://www.youtube.com/watch?v=vsiFLt5GorU" onclick="return false;">
+						(Untitled)</a></td>
+							<td>intervention</td>
+							<td>London</td>
+							<td>Feb 2017</td>
+					
+					  <tr class="linked" id="post">
+						 	 <td class="sans-serif">Cannibal Supper Club </a></td>
+							<td>ritual</td>
+							<td>Berlin</td>
+							<td>Jan 2017</td>
+						</tr>
+					
+					       <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://www.facebook.com/events/446233342432845/" onclick="return false;">
+						AE Waite</a></td>
+							<td>talk</td>
+							<td>University of Muri</td>
+							<td>Jan 2017</td>
+						</tr>
+                        
+                           <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://web.facebook.com/UniversityOfMuri/" onclick="return false;">
+						Giordano Bruno</a></td>
+							<td>talk</td>
+							<td>University of Muri</td>
+							<td>Nov 2016</td>
+						</tr>
+						
+                           <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.baku-magazine.com/magazine/" onclick="return false;">
+						Cultural MRI: Haiti!</a></td>
+							<td>article</td>
+							<td>Baku</td>
+							<td>Oct 2016</td>
+						</tr>
+                        
+                        <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.deutscheoperberlin.de/en_EN/calendar/gianni.13814567" onclick="return false;">
+						Gianni</a></td>
+							<td>libretto</td>
+							<td>Deutsche Oper</td>
+							<td>Oct 2016</td>
+						</tr>
+                        
+                          <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://dcxmiller.tumblr.com/invisibleman" onclick="return false;">
+						L'homme invisible</a></td>
+							<td>action</td>
+							<td>Paris</td>
+							<td>Sep 2016</td>
+						</tr>
+                        
+                <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://www.tintabernaclekilburn.org.uk/" onclick="return false;">
+						Poems</a></td>
+							<td>performance</td>
+							<td>Tin Tabernacle</td>
+							<td>Jun 2016</td>
+
+
+                <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://spokenwordparis.org/opensecret/" onclick="return false;">
+						La Danse Modern</a></td>
+							<td>performance</td>
+							<td>Open Secret</td>
+							<td>Apr 2016</td>
+						</tr>
+                <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="https://freudianslipclub.wordpress.com/" onclick="return false;">
+						Dada Show</a></td>
+							<td>performance</td>
+							<td>Freudian Slip Club
+</td>
+							<td>Feb 2015</td>
+						
+                        <tr class="linked" id="post">
+						 	 <td class="sans-serif"><a href="http://clocktower.org/show/the-surrealists-of-haiti#" onclick="return false;">
+						The Surrealists of Haiti</a></td>
+							<td>interview</td>
+							<td>Clocktower Radio</td>
+							<td>Dec 2015</td>
+						</tr>
+                        
+                        <tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://clocktower.org/show/secretary-daniel-miller" onclick="return false;">
+						University of Muri</a></td>
+							<td>interview</td>
+							<td>Clocktower Radio</td>
+							<td>Dec 2015</td>
+						</tr>
+                
+                					 	 <td class="sans-serif"><a href="http://www.artmonthly.co.uk/magazine/site/issue/may-2014" onclick="return false;">Against Political Art</a></td>
+							<td>article</td>
+							<td>Art Monthly</td>
+							<td>May 2014</td>
+                        </tr>					
+                        	
+                        	                        						 	 <td class="sans-serif"><a href="http://sfakiotes-residency.net/" onclick="return false;">Sfakiotes Residency</a></td>
+							<td>residency</td>
+							<td>Lefkada, Greece</td>
+							<td>Nov 2013</td>
+                        </tr>					
+                        	
+                        						 	 <td class="sans-serif"><a href="https://new-documents.org/books/walter-benjamin" onclick="return false;">Interview with Walter Benjamin</a></td>
+							<td>interview</td>
+							<td>A Prior</td>
+							<td>Apr 2013</td>
+                        </tr>					
+
+                        						 	 <td class="sans-serif"><a href="http://www.lrb.co.uk/blog/2013/04/25/daniel-miller/at-the-hamburger-bahnhof/" onclick="return false;">SIM Residency</a></td>
+							<td>residency</td>
+							<td>Reykjavik</td>
+							<td>Apr 2013</td>
+							</tr>
+
+
+                        					
+                        						 	 <td class="sans-serif"><a href="http://www.lrb.co.uk/blog/2013/04/25/daniel-miller/at-the-hamburger-bahnhof/" onclick="return false;">
+						At the Hamburger Bahnhof</a></td>
+							<td>review</td>
+							<td>LRB</td>
+							<td>Apr 2013</td>
+                                                <tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="https://vimeo.com/60479673" onclick="return false;">
+						Sail Away We Must</a></td>
+							<td>lecture</td>
+							<td>University of Muri</td>
+							<td>Dec 2013</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">
+						Dark Numbers (with Public Movement)</a></td>
+							<td>performance</td>
+							<td>Malmo Inkonst</td>
+							<td>Nov 2012</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.wdw.nl/en/our_program/events/launch_and_presentation_of_a_prior_magazine_23_24_23_skidoo" onclick="return false;">
+						A Prior 23</a></td>
+							<td>magazine</td>
+							<td>Documenta 13</td>
+							<td>Oct 2012</td>
+							</tr>
+							
+								<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://www.publicmovement.org/new/rebranding-european-muslims-gala/" onclick="return false;">
+						Rebranding European Muslims</a></td>
+							<td>public movement</td>
+							<td>Stierischer Herbst</td>
+							<td>Nov 2012</td>
+							</tr>
+
+<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.mottodistribution.com/shop/mutant-all-too-mutant.html" onclick="return false;">
+						Mutant, All Too Mutant</a></td>
+							<td>book</td>
+							<td>Onomatopee</td>
+							<td>Nov 2012</td>
+							</tr>
+				
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.publicmovement.org/new/salons-birthright-palestine/" onclick="return false;">
+						Birthright Palestine</a></td>
+							<td>performance</td>
+							<td>New Museum Triennial</td>
+							<td>Nov 2012</td>
+							</tr>
+
+
+				<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/%E2%80%9Ei-think-everyone-should-stop-feeling-so-good-about-themselves-%E2%80%9D-%E2%80%93-interview-with-nadia-latif-27388" onclick="return false;">I think everyone shoud stop feeling so good about themselves</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Apr 2012</td>
+						</tr>
+
+											<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/there-were-no-arabs-and-jews-interview-with-salim-tamari-27368" onclick="return false;">There were no Arabs and Jews</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Mar 2012</td>
+						</tr>		
+
+											<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/on-that-point-i-can-agree-interview-with-sergey-lagodinsky-27316" onclick="return false;">That's the reality nobody knows. And nobody wants to know</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Mar 2012</td>
+						</tr>		
+						
+										<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/i-refuse-to-be-a-symbol-interview-with-konstanty-gebert-27297" onclick="return false;">I refuse to be a symbol</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Mar 2012</td>
+						</tr>		
+						
+										<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/ataturk-yes-a-friend-sent-it-to-me-and-interview-with-cilly-kugelman-27277">Atatürk, yes, a friend sent to me and...</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Feb 2012</td>
+						</tr>		
+						
+																<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href=http://blog.berlinbiennale.de/en/comments/daniel-miller-in-conversation-with-martin-zet-17949"onclick="return false;">Must We Burn Martin Zet?</a></td>
+						<td>interview</td>
+						<td>Berlin Biennale 7</td>
+						<td>Feb 2012</td>
+						</tr>		
+						
+	
+										<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/%E2%80%9Ethe-jews-were-there-before-the-christians-%E2%80%93-interview-with-christina-von-braun-27254" onclick="return false;">A deep narcissistic wound</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Oct 2011</td>
+						</tr>		
+				
+				<tr class="linked" id="sentiment">
+						 	 <td class="sans-serif"><a href="http://blog.berlinbiennale.de/en/allgemein-en/%E2%80%9Enot-assmilating-is-a-choice-interview-with-susan-neiman-27224" onclick="return false;">Not Assimilating is a choice</a></td>
+						<td>interview</td>
+						<td>JRMIP</td>
+						<td>Sep 2011</td>
+						</tr>					
+						
+						<tr class="linked" id="sentiment">
+						<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">
+						National Identity Workshop</a></td>
+							<td>workshop</td>
+							<td>JRMIP</td>
+							<td>Jul 2012</td>
+							</tr>					
+
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.sternberg-press.com/index.php?pageId=1326&bookId=221&l=en" onclick="return false;">
+						The Appendix That Was Removed</a></td>
+							<td>text</td>
+							<td>Venice Biennale</td>
+							<td>Jul 2011</td>
+							</tr>
+
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">
+						Varieties of Experience</a></td>
+							<td>intervention</td>
+							<td>Van Abbemuseum</td>
+							<td>Dec 2011</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://aprior.schoolofarts.be/images/ap22_CubistQueen.pdf" onclick="return false;">
+						The Cubist Queen</a></td>
+							<td>poem</td>
+							<td>A Prior</td>
+							<td>Dec 2011</td>
+							</tr>
+							
+						 <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="						 http://eprints.lincoln.ac.uk/3507/25/DanielMiller_Hypercyber2.pdf">
+						Hypercyber</a></td>
+							<td>poem</td>
+							<td>Manchester Cornerhouse</td>
+							<td>Dec 2010</td>
+							</tr>
+					
+						 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href=" https://frieze.com/article/those-who-live-it?language=en" onclick="return false;">...For those who live in it</a></td>
+							<td>review</td>
+							<td>Frieze</td>
+							<td>Oct 2010</td>
+							</tr>
+							
+                            <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="						 https://vanabbemuseum.nl/fileadmin/files/Publicaties/The_Exorcist.pdf">
+						The Museum and its Doubles</a></td>
+							<td>poem</td>
+							<td>Van Abbemuseum</td>
+							<td>Sep 2010</td>
+							</tr>
+						  					 
+						 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://frieze.com/article/joyeux-anniversaire" onclick="return false;">
+						Joyeux Anniversaire!</a></td>
+							<td>article</td>
+							<td>Frieze</td>
+							<td>Sep 2010</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">
+					Atlas/Machine</a></td>
+							<td>workshop</td>
+							<td>International Academy of Art Palestine, Ramallah</td>
+							<td>April/May 2010</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">Bernard Stiegler</a></td>
+							<td>article</td>
+							<td>Times Literary Supplement</td>
+							<td>April 2009</td>
+							</tr>
+
+
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">Michel Serres</a></td>
+							<td>article</td>
+							<td>Times Literary Supplement</td>
+							<td>Oct 2009</td>
+							</tr>
+							
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://frieze.com/article/ramallah?language=en" onclick="return false;">
+						Picasso in Palestine</a></td>
+							<td>interview</td>
+							<td>Frieze</td>
+							<td>Jan 2010</td>
+							</tr>
+							
+							     <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.iconeye.com/opinion/review/item/4207-bauhaus-a-conceptual-model">Bauhaus</a></td>
+							<td>article</td>
+							<td>Icon</td>
+							<td>Dec 2009</td>
+							</tr>
+						
+								<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">
+						Mutant</a></td>
+							<td>workshop</td>
+							<td>Salzburg Experimental Academy for Dance</td>
+							<td>Sep/Oct 2009</td>
+							</tr>
+
+                          <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="hhttp://www.art-agenda.com/shows/stadium-x-a-place-that-never-was-a-reader/" onclick="return false;">Stadium X</a></td>
+							<td>article</td>
+							<td>Stadium X</td>
+							<td>April 2009</td>
+							</tr>
+
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.metamute.org/editorial/articles/post-city" onclick="return false;">On the Post-City</a></td>
+							<td>article</td>
+							<td>Mute</td>
+							<td>Oct 2009</td>
+							</tr>
+							
+							          <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.iconeye.com/opinion/review/item/4026-nurturing-dreams" onclick="return false;">Fumihiko Maki</a></td>
+							<td>article</td>
+							<td>Icon</td>
+							<td>Aug 2009</td>
+							</tr>
+
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://frieze.com/article/performing-politics-germany" onclick="return false;">Performing Politics for Germany</a></td>
+							<td>article</td>
+							<td>Frieze</td>
+							<td>July 2009</td>
+							</tr>
+
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://newhumanist.org.uk/articles/2004/book-review-2666-by-roberto-bolano" onclick="return false;">2666 by Roberto Bolaño</a></td>
+							<td>review</td>
+							<td>New Humanist</td>
+							<td>Mar 2009</td>
+							</tr>
+							
+											 	 <td class="sans-serif"><a href="http://www.artmonthly.co.uk/magazine/site/issue/march-2009">Now Let Us Interview Famous Men</a></td>
+							<td>article</td>
+							<td>Art Monthly</td>
+							<td>March 2009</td>
+                        </tr>					
+								                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://dcxmiller.tumblr.com/" onclick="return false;">Clearing Away Dead Wood</a></td>
+							<td>article</td>
+							<td>Prospect</td>
+							<td>Feb 2009</td>
+							</tr>
+							
+							                <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.iconeye.com/architecture/item/3538-far-from-equilibrium?tmpl=component&print=1" onclick="return false;">Far from Equilibrium</a></td>
+							<td>article</td>
+							<td>Icon</td>
+							<td>Aug 2008</td>
+							</tr>
+
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://newleftreview.org/II/51/daniel-miller-sterilizing-cyberspace" onclick="return false;">Sterilizing Cyberspace</a></td>
+							<td>article</td>
+							<td>New Left Review</td>
+							<td>May 2008</td>
+							</tr>
+
+<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://www.shaheenmerali.com/curated_exhibitions/bodhi_art/bodhi_mumbai/everywhere_is_war.html" onclick="return false;">Network War</a></td>
+							<td>essay</td>
+							<td>Everywhere is War</td>
+							<td>Oct 2008</td>
+							</tr>
+							
+							<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.thelocal.de/20080327/10933" onclick="return false;">Wolfgang Tillmans
+</a></td>
+							<td>article</td>
+							<td>The Local</td>
+							<td>Oct 2008</td>
+							</tr
+				      
+	                        <tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.thelocal.de/20080307/10551" onclick="return false;">Theatre and Science Collide</a></td>
+							<td>article</td>
+							<td>The Local</td>
+							<td>Mar 2008</td>
+							</tr>
+
+                        	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://delius-digital.de/sixcms/detail.php?template_id=0&id=90037&site=89544" onclick="return false;">Essential Architecture</a></td>
+							<td>book</td>
+							<td>Delius</td>
+							<td>Oct 2007</td>
+							</tr>
+
+					 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://newhumanist.org.uk/articles/1643/nihil-unbound-by-ray-brassier" onclick="return false;">
+					Nihil Unbound</a></td>
+							<td>review</td>
+							<td>New Humanist</td>
+							<td>Nov 2007</td>
+							</tr>
+
+					 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://www.linkedin.com/company/unibooks" onclick="return false;">
+						The Pig and the Wolf</a></td>
+							<td>book</td>
+							<td>Unibooks</td>
+							<td>Aug 2007</td>
+							</tr>
+
+					 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://newhumanist.org.uk/articles/1420/hollow-land" onclick="return false;">
+						Hollow Land</a></td>
+							<td>review</td>
+							<td>New Humanist</td>
+							<td>Jul 2007</td>
+							</tr>
+
+					 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="https://newhumanist.org.uk/articles/1562/the-absence-of-myth-writings-on-surrealism-by-geroges-bataille" onclick="return false;">
+						The Absence of Myth</a></td>
+							<td>review</td>
+							<td>New Humanist</td>
+							<td>Jul 2007</td>
+							</tr>
+
+					 	<tr class="linked" id="sentiment">
+						 	<td class="sans-serif"><a href="http://kinofist.blogspot.com/" onclick="return false;">
+						Kino Fist</a></td>
+							<td>project</td>
+							<td>London</td>
+							<td>Jan 2007</td>
+							</tr>
+						  
+
+					</tbody>
+			  		</table>
+				<!-- end of table-->
+				</div>
+			<!-- end of col-md-12-->
+			</div>
+	<!-- end of container-fluid-->
+	</div>
+
+	<script>
+	
+	
+	$(document).ready(function() 
+	    { 	
+	     	$('#main-content').fadeIn();
+			$.tablesorter.addParser({
+			    id: 'monthYear',
+			    is: function(s) {
+			        return false;
+			    },
+			    format: function(s) {
+			        var date = s.match(/^(\w{3})[ ](\d{4})$/);
+			        var m = date ? date[1] + ' 1 ' || '' : '';
+			        var y = date && date[2] ? date[2] || '' : '';
+			        return new Date(m + y).getTime() || '';
+			    },
+			    type: 'Numeric'
+			});
+
+			$('#myTable').tablesorter({
+			    headers: {
+			        3: {
+			            sorter: 'monthYear'
+			        }
+			    }
+			});
+	});
+
+
+	$('tbody tr').click( function() {
+		window.open(($(this).find('a').attr('href')), '_blank');
+	}).hover( function() {
+	    $(this).toggleClass('hover');
+	});
+
+	</script>
+
+    <!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8875559; 
+var sc_invisible=1; 
+var sc_security="2941b6be"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="hits counter"
+href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/8875559/0/2941b6be/1/"
+alt="hits counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+    
+  </body>
+</html>
